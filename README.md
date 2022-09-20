@@ -1,4 +1,4 @@
-# SYC Link-tree
+# SYC LinkTree
 
 ### Purpose: 
 
