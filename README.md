@@ -1,4 +1,4 @@
-# SYC LinkTree
+# HTML-CSS-link-tree
 
 ### Purpose: 
 
@@ -8,5 +8,5 @@
 
 ### Page link:
 
-https://szuyuchen.github.io/link-tree/
+https://szuyuchen.github.io/HTML-CSS-link-tree/
 
